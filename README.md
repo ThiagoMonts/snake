@@ -3,10 +3,10 @@
 Jogo Snake criado utilizando a linguagem Python, com base nos ensinamentos do [repositório - Pygame-Snake](https://github.com/filhoweuler/Pygame-Snake) do perfil [filhoweuler](https://github.com/filhoweuler) no GitHub. 
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-execução">🔖 Execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">:memo: Licença</a>
 </p>
 
 <br>
@@ -27,7 +27,7 @@ Snake (Serpente, também conhecido como "jogo da cobrinha") é um jogo que ficou
 
 O jogador controla uma longa e fina criatura que se arrasta pela tela, coletando comida (neste caso uma maçã), não podendo colidir com seu próprio corpo ou as "paredes" que cercam a área de jogo. Cada vez que a serpente come uma maçã, sua cauda cresce, aumentando a dificuldade do jogo. O usuário controla a direção da cabeça da serpente (para cima, para baixo, esquerda e direita) e seu corpo segue.
 
-## 🔖 Layout
+## 🔖 Execução
 
 Você pode testar o projeto, seguindo o passo-a-passo abaixo: 
 <ul>
