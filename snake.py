@@ -1,7 +1,7 @@
 import pygame
 from random import randint
 from pygame.locals import *
-
+pygame.init()
 def on_grid_random(): #Função que determina a posição aleatória da maçã
     x = randint(0,59)
     y = randint(0,59)
